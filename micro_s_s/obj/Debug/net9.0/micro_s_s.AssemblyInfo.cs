@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("micro_s_s")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bd6aa6484da32b20b0fe2e10e1f4e9bbad8787e4")]
 [assembly: System.Reflection.AssemblyProductAttribute("micro_s_s")]
 [assembly: System.Reflection.AssemblyTitleAttribute("micro_s_s")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

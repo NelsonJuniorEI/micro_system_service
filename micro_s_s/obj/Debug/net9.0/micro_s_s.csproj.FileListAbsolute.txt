@@ -193,3 +193,4 @@ C:\Users\NelsonLuizMeirellesd\OneDrive-Forlogic\micro_system_service\micro_s_s\b
 C:\Users\NelsonLuizMeirellesd\OneDrive-Forlogic\micro_system_service\micro_s_s\bin\Debug\net9.0\micro_s_s.pdb
 C:\Users\NelsonLuizMeirellesd\OneDrive-Forlogic\micro_system_service\micro_s_s\obj\Debug\net9.0\micro_s_s.genruntimeconfig.cache
 C:\Users\NelsonLuizMeirellesd\OneDrive-Forlogic\micro_system_service\micro_s_s\obj\Debug\net9.0\ref\micro_s_s.dll
+C:\Users\NelsonLuizMeirellesd\OneDrive-Forlogic\micro_system_service\micro_s_s\obj\Debug\net9.0\micro_s_s.sourcelink.json
